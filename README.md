@@ -9,4 +9,7 @@ adding more stuff
 
 diff 
 
-new branch
+n
+e
+w 
+branch
